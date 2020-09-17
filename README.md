@@ -1,3 +1,3 @@
 # stinkyshoe23
 
-basic code for a hw
+c++ code for a money app
